@@ -61,7 +61,7 @@ function tumblr_blog_display_shortcode($atts){
     $data .= "</div>
         </div>";
     }
-	$data .= "<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.telemedicine-jobs.com' title='click here' target='_blank'>Telemedicine Jobs</a></div>";
+	$data .= "<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.telemedicine-jobs.com' title='click here' target='_blank'>telemedicine jobs for physicians</a></div>";
     return $data;
     }
 function trimWords($string, $limit)
